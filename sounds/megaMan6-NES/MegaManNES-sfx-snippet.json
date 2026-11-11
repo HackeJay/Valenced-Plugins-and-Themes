@@ -1,20 +1,20 @@
 {
     "name": "Mega Man - NES",
     "sounds": {
-        "message1": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/message1.wav?raw=1",
-        "message2": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/message2.wav?raw=1",
-        "message3": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/message3.wav?raw=1",
-        "mention3": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/mention3.wav?raw=1",
-        "call_calling": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/callCalling.wav?raw=1",
-        "call_ringing": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/callRinging.wav?raw=1",
-        "disconnect": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/userLeave.wav?raw=1",
-        "reconnect": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/userJoin.wav?raw=1",
+        "message1": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/message1.wav",
+        "message2": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/message2.wav",
+        "message3": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/message3.wav",
+        "mention3": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/mention3.wav",
+        "call_calling": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/callCalling.wav",
+        "call_ringing": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/callRinging.wav",
+        "disconnect": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/userLeave.wav",
+        "reconnect": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/userJoin.wav",
         "user_join": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/userJoin.wav",
-        "user_leave": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/userLeave.wav?raw=1",
-        "user_moved": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/userMoved.wav?raw=1",
-        "mute": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/mute.wav?raw=1",
-        "unmute": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/unmute.wav?raw=1",
-        "deafen": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/mute.wav?raw=1",
-        "undeafen": "https://github.com/HackeJay/Valenced-Plugins-and-Themes/blob/main/sounds/megaMan6-NES/unmute.wav?raw=1"
+        "user_leave": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/userLeave.wav",
+        "user_moved": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/userMoved.wav",
+        "mute": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/mute.wav",
+        "unmute": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/unmute.wav",
+        "deafen": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/mute.wav",
+        "undeafen": "https://raw.githubusercontent.com/HackeJay/Valenced-Plugins-and-Themes/refs/heads/main/sounds/megaMan6-NES/unmute.wav"
     }
 }
